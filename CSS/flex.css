@@ -1,0 +1,24 @@
+.parent{
+    width:510px;
+    height:310px;
+    background-color:darkgreen;
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+}
+.col{
+    width:50px;
+    height:200px;
+}
+.col1{
+    background-color:darkmagenta;
+}
+.col2{
+    background-color:darkred;
+}
+.col3{
+    background-color:darkturquoise;
+}
+.col4{
+    background-color:deeppink;
+}

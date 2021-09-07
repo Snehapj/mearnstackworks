@@ -1,0 +1,121 @@
+h1{
+    
+    text-align:center;
+}
+.art{
+    margin:auto;
+}
+td{
+    background-color:black;
+    height:110px;
+    width:90px;
+    border-width:4px;
+    border-style:solid;
+}
+#ab{
+    
+    background-color:olivedrab;
+    border-width:2px;
+    
+}
+#ac{
+    
+    background-color:forestgreen;
+    
+}
+#ad{
+    
+    background-color:mediumseagreen;
+    
+}
+#ae{
+    
+    background-color:springgreen;
+    
+}
+#af{
+    
+    background-color:white;
+    
+}
+#ag{
+    
+    background-color:gold;
+    
+}
+#ah{
+    
+    background-color:lightsalmon;
+    
+}
+#ai{
+    
+    
+    background-color:pink;
+    
+}
+#aj{
+    
+    background-color:darkgray;
+    
+}
+#ak{
+    
+    background-color:darkviolet;
+    
+}
+#al{
+    
+    background-color:orchid;
+    
+}
+#am{
+    
+    background-color:grey;
+    
+}
+#an{
+    
+    background-color:lightskyblue;
+    
+}
+#ao{
+    
+    background-color:palegreen;
+    
+}
+#ap{
+    
+    background-color:goldenrod;
+    
+}
+#aq{
+    
+    background-color:mediumvioletred;
+    
+}
+#ar{
+    
+    background-color:saddlebrown;
+    
+}
+#as{
+    
+    background-color:aqua;
+    
+}
+#at{
+    
+    background-color:cyan;
+    
+}
+#au{
+    
+    background-color:darkorchid;
+    
+}
+#av{
+    
+    background-color:gray;
+    
+}

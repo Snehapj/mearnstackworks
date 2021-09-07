@@ -1,0 +1,41 @@
+.row{
+    width:100%;
+    height:500px;
+    display:flex;
+    justify-content:space-evenly;
+    margin-top:10px;
+}
+.col{
+    width:23%;
+    border:1px solid black;
+}
+.col img{
+    width:100%;
+    height: 300px;
+    border-radius:250px;
+    
+}
+button{
+    width:80px;
+    height:30px;
+    background-color:green;
+    color:cornsilk;
+    border-radius:30%;
+}
+.btn{
+    display:flex;
+    justify-content:space-around;
+}
+header{
+    display:flex;
+    width:100%;
+    background-color:blue;
+    justify-content:space-evenly;
+    height:50px;
+    align-items:center;
+}
+header a{
+    color:white;
+    text-decoration:none;
+    padding:100px;
+}
